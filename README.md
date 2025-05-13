@@ -11,7 +11,7 @@ A proposta é criar uma **lista de heróis** com base no universo de "O Senhor d
 - JavaScript (ES6+)
 - Node.js (para executar o código localmente)
 - Git (para Fazer o versionamento)
-- Github (para Fazer o Hospedagem)
+- Github (para Fazer a Hospedagem)
 
 ---
 
